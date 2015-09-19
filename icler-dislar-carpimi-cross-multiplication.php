@@ -25,11 +25,11 @@
 				$h2 = $h1/$a;
 				echo $h2;
 			}else{
-				die('Soru işareti konulan bir yer bulunamadı.<a href="index.php">Geri</a>');
+				die('Soru işareti konulan bir yer bulunamadı.<a href="icler-dislar-carpimi-cross-multiplication.php">Geri</a>');
 			}
 			
 		}else{
-			die('Boş bırakmayınız.<a href="index.php">Geri</a>');
+			die('Boş bırakmayınız.<a href="icler-dislar-carpimi-cross-multiplication.php">Geri</a>');
 		}
 		
 	}
